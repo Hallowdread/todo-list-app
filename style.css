@@ -39,9 +39,7 @@ form {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 18rem;
     margin: 0 auto;
-    flex-shrink: 0;
 }
 
 form input {
