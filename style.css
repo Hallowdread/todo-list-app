@@ -161,4 +161,15 @@ ul {
         margin: 0 -40px;   
     }
 
+};
+
+@media(max-width: 310px) {
+    .todo-app {
+        max-width: 18.5rem;
+        margin-top: 2rem 2rem;
+    }
+    form {
+        justify-content: center;
+        margin: 0 -30px;   
+    }
 }
