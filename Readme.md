@@ -2,7 +2,7 @@
 
 A Todo App Made With HTML, CSS & Javascript
 
-![Todo App image](todo-app-img.png);
+![Todo App image](todo-app-img.png)
 
 The webapp is a simple todo list that:
 a. Add Todos
