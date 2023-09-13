@@ -171,3 +171,27 @@ ul {
         margin: 0 -30px;   
     }
 }
+
+@media(max-width: 320px) {
+    .todo-app {
+        margin: 2.5rem auto;
+    }
+    .todo-app h2 {
+        font-size: 1.8rem;
+    }
+    form input {
+        width: 10px;
+    }
+}
+
+@media(max-width: 295px) {
+    .todo-app {
+        margin: 2.5rem auto;
+    }
+    .todo-app h2 {
+        font-size: 1.6rem;
+    }
+    form input {
+        width: 10px;
+    }
+}
